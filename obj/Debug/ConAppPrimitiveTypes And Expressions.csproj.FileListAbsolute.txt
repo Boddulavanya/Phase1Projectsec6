@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\obj\Debug\ConAppPrimitiveTypes And Expressions.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\obj\Debug\ConAppPrimitiveTypes And Expressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\obj\Debug\ConAppPrimitiveTypes And Expressions.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\bin\Debug\ConAppPrimitiveTypes And Expressions.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\bin\Debug\ConAppPrimitiveTypes And Expressions.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\bin\Debug\ConAppPrimitiveTypes And Expressions.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\obj\Debug\ConAppPrimitiveTypes And Expressions.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-14\ConAppPrimitiveTypes And Expressions\ConAppPrimitiveTypes And Expressions\obj\Debug\ConAppPrimitiveTypes And Expressions.pdb
